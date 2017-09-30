@@ -5,4 +5,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="azul">#9999ff</color>
     <color name="rojo">#ff0000</color>
+    <color name="verde">#78d778</color>
+    <color name="morado">#936dec</color>
+
 </resources>
